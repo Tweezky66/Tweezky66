@@ -1,7 +1,6 @@
 # 💫 About Me:
- Hi, i'm Vadim👋<br>CS student @ Lviv Polytechnic,currently interested in ML systems and its practical application.<br><br>📫 [bil.vad81@gmail.com](mailto:vadim.bilanchuk.pp.2025@lpnu.ua) · [LinkedIn]()<br><br>**Stack:** Python · SQL · PyTorch · Scikit-learn · Git · Docker · Matplotlib · Pandas · Numpy<br><br>🔭 Currently working on: training custom ML model on EuroSAT data  <br>🌱 Learning: [Tranformers / AI agents] 
+ Hi, i'm Vadim👋<br>CS student @ NULP,currently interested in smart ways of problem-solving with AI workflows.<br><br>📫 [bil.vad81@gmail.com](mailto:vadim.bilanchuk.pp.2025@lpnu.ua) · [LinkedIn]()<br><br>**Zones of interest:** Applied ML/AI systems that could solve real world problems <br><br>🔭 Currently working on: training custom ML model on EuroSAT data  <br>🌱 Learning: [Tranformers / AI agents] 
 
-Big series fan,especially Star  wars,Dexter,Prison Break,Hannibal
 
 
 ## 🌐 Socials:
